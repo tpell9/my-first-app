@@ -1,0 +1,14 @@
+h3 {
+  color: dodgerblue
+}
+
+h1 {
+  color: dodgerblue
+}
+
+hr {
+  height: 1px; /* Adjust the height as needed */
+  background-color: lightgrey; /* Set the color of the line */
+  border: none; /* Remove the default border */
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25); /* Add a drop shadow */
+}
